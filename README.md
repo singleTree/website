@@ -1,6 +1,13 @@
 # website
 #some interesting website for technology
 
+https://incompetech.filmmusic.io/search/  免费声音网站
+http://www.soundjay.com/index.html   免费声音网站
+http://www.derekyu.com/tigs/assemblee/  免费素材列表
+https://opengameart.org/  免费资源网站
+http://www.2gei.com/    免费资源网站
+https://www.tigsource.com/   独立开发网站
+https://tieba.baidu.com/f?kw=%E6%B8%B8%E6%88%8F%E7%B4%A0%E6%9D%90&ie=utf-8  百度素材分享贴吧
 
 http://www.liaoxuefeng.com/     廖雪峰网站，可以学习 js， git 的操作
 
